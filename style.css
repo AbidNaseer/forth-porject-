@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+div.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+li{
+    list-style: none;
+}
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+
+}
+.first-para{
+    text-align: center;
+}
+.sec-para{
+    text-align: center;
+}
